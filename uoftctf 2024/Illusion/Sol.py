@@ -124,3 +124,5 @@ for m in matches_p2:
 #     except:
 #         pass
 
+# RES : 1. https://github.com/trustedsec/trevorc2
+#       2. https://nasbench.medium.com/understanding-detecting-c2-frameworks-trevorc2-2a9ce6f1f425
